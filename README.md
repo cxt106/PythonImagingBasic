@@ -1,4 +1,4 @@
 # PythonImagingBasic
-code and data for Basic Image Analysis in Python class
+code and data for 'Basic Image Analysis with Python' class
 
-This workshop will cover the basics of image analysis using Python. It will be geared toward users with low-to-moderate experience working with interactive-mode languages (e.g., Python, R, MATLAB), but even beginners will be able to follow along with the provided tutorial code. Students will learn how to interactively explore their image data in the context of a Jupyter Notebook. The workshop will cover image file management, basic processing such as rescaling and filtering, and basic analytical techniques such as image segmentation and fluorescence colocalization.
+This workshop covers the basics of image analysis using Python. It is geared toward those with low-to-moderate programming experience, but beginners should be able to follow along with the provided tutorial code. Students will learn how to interactively explore their image data with a Jupyter Notebook. The workshop will cover image file management, basic processing such as rescaling and filtering, and basic analytical techniques such as image segmentation and fluorescence colocalization.
