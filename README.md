@@ -10,3 +10,9 @@ You might also find the following links useful:
 scikit-image API reference: http://scikit-image.org/docs/stable/api/api.html
 
 PIL API reference: https://pillow.readthedocs.io/en/stable/reference/index.html 
+
+"Official" scikit-image tutorial: https://github.com/scikit-image/skimage-tutorials
+
+scikit-image tutorial on YouTube: https://www.youtube.com/watch?v=pZATswy_IsQ
+
+
